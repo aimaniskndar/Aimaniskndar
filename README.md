@@ -31,6 +31,9 @@ I'm a student pursuing a Diploma in Computer Science at Universiti Poly-Tech Mal
 ## Projects
 
 Here are some of the projects I have been working on:
+
+*Coming soon...*
+
 <!--
 - [Project 1](link-to-project1): Brief description of the project.
 - [Project 2](link-to-project2): Brief description of the project.
