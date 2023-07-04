@@ -1,11 +1,14 @@
 # Hey, I'm Aiman! 👋
 
-I'm a student pursuing a Diploma in Computer Science at Universiti Poly-Tech Malaysia. Welcome to my GitHub profile!
+I'm a student from Malaysia 🇲🇾 pursuing a Diploma in Computer Science at Universiti Poly-Tech Malaysia. Welcome to my GitHub profile!
 
 ## About Me
 
 - 📚 Currently studying: Diploma in Computer Science
 - ✉️ Email: aimanovation@gmail.com
+- 🗣️ Language:
+  - Malay
+  - English
 
 ## Interests
 
