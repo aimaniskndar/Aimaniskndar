@@ -31,6 +31,9 @@ I'm a student from Malaysia 🇲🇾 pursuing a Diploma in Computer Science at U
 - 📷 Computer Vision and Image Processing (Learning in Progress)
 - 🎵 Audio and Music Technology
 
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimanovation&layout=compact)
+
 ## Projects
 
 Here are some of the projects I have been working on:
