@@ -32,7 +32,7 @@ I'm a student from Malaysia 🇲🇾 pursuing a Diploma in Computer Science at U
 - 🎵 Audio and Music Technology
 
 ## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimanxova&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimaniskndar&layout=compact)
 
 ## Projects
 
