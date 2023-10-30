@@ -1,4 +1,4 @@
-# Hey, I'm Aiman! 👋
+# Hi, I'm Aiman! 👋
 
 I'm a student from Malaysia 🇲🇾 pursuing a Diploma in Computer Science at Universiti Poly-Tech Malaysia. Welcome to my GitHub profile!
 
