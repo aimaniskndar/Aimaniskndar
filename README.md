@@ -5,7 +5,7 @@ I'm a student from Malaysia 🇲🇾 pursuing a Diploma in Computer Science at U
 ## About Me
 
 - 📚 Currently studying: Diploma in Computer Science
-- ✉️ Email: aimanovation@gmail.com
+- ✉️ Contact Email: aiman.bound@gmail.com
 - 🗣️ Language:
   - Malay
   - English
@@ -48,7 +48,7 @@ Feel free to explore my repositories to find out more about my work!
 
 ## Contact Me
 
-You can reach me via email at aimanovation@gmail.com. I'm always open to collaboration and interesting projects.
+You can reach me via email at aiman.bound@gmail.com. I'm always open to collaboration and interesting projects.
 
 Looking forward to connecting with you!
 
