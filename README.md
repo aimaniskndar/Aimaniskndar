@@ -5,7 +5,7 @@ I'm a student from Malaysia 🇲🇾 pursuing a Diploma in Computer Science at U
 ## About Me
 
 - 📚 Currently studying: Diploma in Computer Science
-- ✉️ Contact Email: aiman.bound@gmail.com
+- ✉️ Contact Email: contact.aiman.azman@gmail.com
 - 🗣️ Language:
   - Malay
   - English
