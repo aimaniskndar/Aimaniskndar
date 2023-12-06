@@ -48,7 +48,7 @@ Feel free to explore my repositories to find out more about my work!
 
 ## Contact Me
 
-You can reach me via email at aiman.bound@gmail.com. I'm always open to collaboration and interesting projects.
+You can reach me via email at contact.aiman.azman@gmail.com. I'm always open to collaboration and interesting projects.
 
 Looking forward to connecting with you!
 
