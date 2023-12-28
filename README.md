@@ -34,7 +34,7 @@ I'm a student from Malaysia 🇲🇾 pursuing a Diploma in Computer Science at U
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimaniskndar&layout=compact)
 
-## Projects
+## Projects 
 
 Here are some of the projects I have been working on:
 
@@ -44,15 +44,19 @@ Here are some of the projects I have been working on:
 - [Project 1](link-to-project1): Brief description of the project.
 - [Project 2](link-to-project2): Brief description of the project.
 -->
+
 Feel free to explore my repositories to find out more about my work!
 
 ## Contact Me
 
-You can reach me via email at contact.aiman.azman@gmail.com. I'm always open to collaboration and interesting projects.
+You can reach me via email at [contact.aiman.azman@gmail.com](mailto:contact.aiman.azman@gmail.com). I'm always open to collaboration and interesting projects.
 
 Looking forward to connecting with you!
 
+## Todo 📃
+- Clean up and reorganised old repos
+
 <!---
-Aimanovation/Aimanovation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aimaniskndar/Aimaniskndar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
