@@ -11,6 +11,9 @@ I'm a student from Malaysia 🇲🇾 pursuing my Bachelors in Information Techno
   - Malay
   - English
   - Mandarin (20%)
+ 
+## Website Portfolio
+[aimanazman.com](https://aimanazman.com)
 
 ## Interests
 
