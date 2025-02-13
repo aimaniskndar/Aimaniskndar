@@ -1,14 +1,16 @@
 # Hi, I'm Aiman! 👋
 
-I'm a student from Malaysia 🇲🇾 pursuing a Diploma in Computer Science at Universiti Poly-Tech Malaysia. Welcome to my GitHub profile!
+I'm a student from Malaysia 🇲🇾 pursuing my Bachelors in Information Technology (Honours) in Computer Application Developement at Universiti Poly-Tech Malaysia. Welcome to my GitHub profile!
 
 ## About Me
 
-- 📚 Currently studying: Diploma in Computer Science
+- 📚 Currently studying: Bachelors in Information Technology (Honours) in Computer Application Developement
+- 👨‍🎓 Graduated from Diloma in Computer Science 
 - ✉️ Contact Email: contact.aiman.azman@gmail.com
 - 🗣️ Language:
   - Malay
   - English
+  - Mandarin (20%)
 
 ## Interests
 
@@ -17,7 +19,7 @@ I'm a student from Malaysia 🇲🇾 pursuing a Diploma in Computer Science at U
 - 🤖 Artificial Intelligence and Machine Learning (Learning in Progress)
 - 🎮 Game Development (Learning in Progress)
 - 📱 Mobile App Development
-- 🖥️ Software Development
+- 🖥️ Software (Operating System) Development
 - 📊 Data Science and Analytics
 - 🤝 Open Source Collaboration
 - 🎨 UI/UX Design
@@ -31,7 +33,7 @@ I'm a student from Malaysia 🇲🇾 pursuing a Diploma in Computer Science at U
 - 📷 Computer Vision and Image Processing (Learning in Progress)
 - 🎵 Audio and Music Technology
 
-## Languages
+## Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimaniskndar&layout=compact)
 
 ## Projects 
